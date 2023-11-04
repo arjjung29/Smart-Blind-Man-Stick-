@@ -1,0 +1,21 @@
+Software:
+
+Arduino IDE
+Embedded C code
+
+HardWare:
+
+NodeMCU - 4
+UTP (Unshielded Twisted Pair Cable (Straight through) - 2
+IR sensor - 8
+Vibration sensor - 1 
+DC vibration motor - 3
+SIM800L - 1
+NEO -6M GPS Module - 1
+Mini breadboard - 1
+18650 battery - 5
+18650 battery holder - 1
+18650 powerbank case - 4
+Light sensor - 1
+White LED - 1 
+
